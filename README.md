@@ -112,4 +112,4 @@ These tensors will be used to train the LSTM model.
 
 The result is shown as a figure with two subplots, each showing the true and predicted values of the time series. The first subplot displays the full dataset, while the second subplot displays only the test set. The y-axis represents the value of the time series, and the x-axis represents the index of each time step. The scaled predicted and true values were converted back to their original scales. The vertical line in the first subplot indicates the split between the training and test sets.
 
-![Results](images/results.png)
+![Results](https://github.com/hovik23/lstm-model/blob/main/images/result.png)
